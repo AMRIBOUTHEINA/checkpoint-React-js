@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+  width: 100%;
+  padding: 15px;
+  margin: auto;
+  height: 100%;
+  background:url(bak.jpg);
+  font-weight: 1000;
+  
+
+}
+h1{
+  color:brown;
+  font-size: xx-large;
+
+}
+h2{
+  color:brown;
+  font-size: x-large;
+  margin-bottom: 30px;
+}
+Form.Label{
+  color: brown;
+}
+button{
+  margin-top: 30px;
+  width:30%;
+  background-color:brown;
+
+}
+
+#formBasicEmail{
+  margin-left:50px;
+  
+}
+#formBasicPassword{
+  margin-top: 30px;
+  margin-left:80px;
+}
+.text-center{
+  margin-top: 10px;
+}
