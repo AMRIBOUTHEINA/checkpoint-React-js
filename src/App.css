@@ -1,13 +1,28 @@
+
 .App {
   text-align: center;
   width: 100%;
   padding: 15px;
-  margin: auto;
+  margin:0%;
   height: 100%;
-  background:url(bak.jpg);
   font-weight: 1000;
-  
+  background:url(arriereplan.jpg);
 
+}
+.faceb{
+width: 460px !important;
+margin-left:530px !important;
+margin-top: 20px !important;
+}
+.insta{
+  width: 460px !important;
+  margin-left:530px !important;
+  margin-top: 20px !important; 
+}
+.tweet{
+  width: 460px !important;
+  margin-left:530px !important; 
+  margin-top: 20px !important;
 }
 h1{
   color:brown;
@@ -23,10 +38,10 @@ Form.Label{
   color: brown;
 }
 button{
-  margin-top: 30px;
-  width:30%;
+  margin-top: 50px;
+  width:460px;
   background-color:brown;
-
+  height: 30px;
 }
 
 #formBasicEmail{
@@ -39,4 +54,7 @@ button{
 }
 .text-center{
   margin-top: 10px;
+}
+.BTN2, .BTN1{
+ margin-top: 40px;
 }
